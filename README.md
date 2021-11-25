@@ -1,16 +1,22 @@
-# aplikacja_z_kursu
+# Clean Air
+> Aplikacja mobilna pozwalająca na sprawdzenie stanu pogody oraz jakości powietrza.
 
-Aplikacja zrobiona na kursie fluttera
+## Spis treści
+* [Ogólne informacje](#Ogólne-informacje)
+* [Zrzuty widoków z aplikacji](#Zrzuty-widoków-z-aplikacji)
+* [Technologie](#Technologie)
 
-## Getting Started
+## Ogólne informacje
+Głównym celem aplikacji jest udostępnienie możliwości sprawdzenia pogody i stanu powietrza. Aplikacja prosi o zezwolenie na korzystanie z GPS urządzenia, na którego podstawie sprawdza najbliżej zlokalizowane radary pogody oraz powietrza. 
 
-This project is a starting point for a Flutter application.
+## Zrzuty widoków z aplikacji
+![Example screenshot](./zdjecia/1.jpg)
+![Example screenshot](./zdjecia/2.jpg)
+![Example screenshot](./zdjecia/3.jpg)
+![Example screenshot](./zdjecia/4.jpg)
+![Example screenshot](./zdjecia/5.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologie
+* Android Studio
+* Dart
+* Flutter
