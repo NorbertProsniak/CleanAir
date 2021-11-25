@@ -12,7 +12,7 @@ Głównym celem aplikacji jest udostępnienie możliwości sprawdzenia pogody i 
 ## Zrzuty widoków z aplikacji
 ![Example screenshot](./zdjecia/4.JPG)
 ![Example screenshot](./zdjecia/5.JPG) 
-\n
+<br />
 ![Example screenshot](./zdjecia/1.JPG)
 ![Example screenshot](./zdjecia/2.JPG)
 ![Example screenshot](./zdjecia/3.JPG)
